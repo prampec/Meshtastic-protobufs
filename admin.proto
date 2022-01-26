@@ -4,7 +4,6 @@ option java_package = "com.geeksville.mesh";
 option optimize_for = LITE_RUNTIME;
 option go_package = "github.com/meshtastic/gomeshproto";
 
-import "cannedmessages.proto";
 import "channel.proto";
 import "mesh.proto";
 import "radioconfig.proto";
